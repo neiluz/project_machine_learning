@@ -1,0 +1,58 @@
+nombre,direccion,categorias,coordenadas,tag,temperatura,humedad,descripcion_clima
+Coworking,"Calle Bruc, 42, Calders Catalunya",['Coworking Space'],"41.391672,2.173255",coworking,23.23,52,few clouds
+IW Coworking,"Carrer de Pau Claris, 90 (Gran Via de les Corts Catalanes), 08010 Barcelona Catalunya",['Coworking Space'],"41.390296,2.170599",coworking,23.23,52,few clouds
+MG Coworking,"Bruc, 168, Barcelona Catalunya",['Coworking Space'],"41.398883,2.163654",coworking,23.0,53,few clouds
+Alparriuss Almazen,"Consell de Cent, 523, 08013 Barcelona Catalunya",['Coworking Space'],"41.402324,2.180315",coworking,23.17,52,few clouds
+Itnig Coffice,"Pujades, 100 (Alaba), 08005 Barcelona Catalunya",['Coworking Space'],"41.396518,2.19417",coworking,23.3,53,few clouds
+WeWork,"Calle Tánger, 86, 08018 Barcelona Catalunya",['Coworking Space'],"41.401784,2.192397",coworking,23.3,53,few clouds
+The Social Hub Barcelona Poblenou,"Calle Cristobal de Moura, 49, 08019 Barcelona Catalunya",['Coworking Space'],"41.409996,2.204553",coworking,23.36,53,clear sky
+Tenea Tecnologias,"Calle Estacio, 1 (Josep Pla), 08630 Abrera Catalunya",['Coworking Space'],"41.520912,1.898669",coworking,22.73,54,clear sky
+860 Coworking,"Carrer del General Palafox, 8, 08860 Castelldefels Catalunya",['Coworking Space'],"41.286412,1.982342",coworking,23.33,33,few clouds
+"Space & Co Muntaner 328, Coworking y Despachos Privados en Barcelona","Muntaner, 328 (Madrazo), 08021 Barcelona Catalunya",['Coworking Space'],"41.397742,2.144927",coworking,22.98,52,few clouds
+Funky Bakers,"Carrer de la Diputació, 347, 08009 Barcelona Catalunya","['Café', 'Deli']","41.394916,2.172866",coworking,23.23,52,few clouds
+Roast Club,"Carrer de València, 190 (C. de València), 08011 Barcelona Catalunya","['Coffee Shop', 'Restaurant']","41.387873,2.15717",coworking,23.11,53,few clouds
+Three Marks Coffee,"Calle D'Ausiàs Marc, 151, 08013 Barcelona Catalunya","['Coffee Shop', 'Restaurant']","41.397168,2.183123",coworking,23.17,52,few clouds
+Nømad Coffee Lab & Shop,"Pasatge Sert, 12 (C. de Trafalgar), 08003 Barcelona Catalunya","['Bar', 'Café', 'Coffee Shop']","41.388928,2.177136",coworking,23.31,53,few clouds
+Churrería Laietana,"Vía Laietana, 46 (Sant Pere Més Baix), 08003 Barcelona Catalunya","['Bar', 'Café', 'Restaurant']","41.38645,2.175654",coworking,23.31,53,few clouds
+Dalston Coffee,"Calle de Les Ramelleres, 16, 08001 Barcelona Catalunya","['Café', 'Coffee Shop', 'Restaurant']","41.384525,2.168502",coworking,23.28,52,few clouds
+Gocce di latte,"Plaza de Palau, 4, 08003 Barcelona Catalunya","['Café', 'Ice Cream Parlor', 'Restaurant']","41.383197,2.182666",coworking,23.31,52,few clouds
+El Petit Princep,"Gran Vía de Les Corts Catalanes, 677 (btwn c/ Nàpols & c/ Roger de Flor), 08013 Barcelona Catalunya","['Bakery', 'Café', 'Restaurant']","41.396371,2.177069",coworking,23.17,52,few clouds
+Blackbird Coffee Corner,"Calle Valencia, 418, 08013 Barcelona Catalunya","['Coffee Shop', 'Restaurant']","41.401762,2.175735",coworking,23.17,52,few clouds
+Cafés el Magnífico,"Argenteria, 64, 08003 Barcelona Catalunya","['Coffee Shop', 'Tea Room', 'Deli']","41.383493,2.181008",coworking,23.31,52,few clouds
+La Esquina,"Bergara, 2 (C. Balmes), 08002 Barcelona Catalunya","['Cafe, Coffee, and Tea House', 'Comfort Food Restaurant', 'Mediterranean Restaurant']","41.385888,2.167912",coworking,23.23,52,few clouds
+SlowMov,"Calle de Luis Antúnez, 18 (C. de Neptú), 08006 Barcelona Catalunya","['Coffee Shop', 'Restaurant']","41.398197,2.154796",coworking,22.99,52,few clouds
+Citizen Café,"Plaza Urquinaona, 4, 08010 Barcelona Catalunya","['Bistro', 'Café', 'Coffee Shop']","41.389412,2.172787",coworking,23.23,52,few clouds
+Hidden Café Barcelona,08003 Barcelona Catalunya,['Café'],"41.38277,2.18245",coworking,23.31,52,few clouds
+Hidden Café Barcelona,"Carrer Déu I Mata, 62 Bajo (C. de Deu i Mata), 08029 Barcelona Catalunya","['Bar', 'Coffee Shop', 'Restaurant']","41.388386,2.13582",coworking,23.06,50,few clouds
+Artisa Barcelona,"Carrer de Colom, 2 (La Rambla, Plaça Reial), 08002 Barcelona Catalunya","['Café', 'Coffee Shop', 'Restaurant']","41.379713,2.174874",coworking,23.28,52,few clouds
+Espai Mescladis,"Calle Carders, 35, 08003 Barcelona Catalunya","['Coffee Shop', 'Vegan and Vegetarian Restaurant']","41.387073,2.180263",coworking,23.31,53,few clouds
+Federal,"Carrer del Taulat, 109, 08005 Barcelona Catalunya","['Coffee Shop', 'Restaurant']","41.399656,2.205785",coworking,23.32,52,few clouds
+BRKLYN Torrefaction,"Calle de Bac de Roda, 79 (C. de Pujades), 08005 Barcelona Catalunya","['Coffee Shop', 'Restaurant']","41.405841,2.205911",coworking,23.32,52,clear sky
+EatMyTrip,"Carrer del Consell de Cent, 378 (C. de Girona), 08009 Barcelona Catalunya",['Café'],"41.395143,2.171475",coworking,23.15,52,few clouds
+La Cala,"Calle l'Escar, 18, 08039 Barcelona Catalunya",['Café'],"41.376101,2.18773",coworking,23.36,52,few clouds
+Bar Joan,"Avenida Francesc Cambó, 16 (Av. de Francesc Cambó, 16), 08003 Barcelona Catalunya","['Bar', 'Coffee Shop', 'Mediterranean Restaurant']","41.386015,2.178898",coworking,23.31,53,few clouds
+Granja Petitbo,"Passeig de Sant Joan, 82, 08009 Barcelona Catalunya","['Café', 'Coffee Shop', 'Mediterranean Restaurant']","41.397555,2.172547",coworking,23.15,52,few clouds
+Granja la Pallaresa,"Carrer de Petritxol, 11, 08002 Barcelona Catalunya","['Café', 'Coffee Shop', 'Restaurant']","41.382927,2.172888",coworking,23.28,52,few clouds
+Sante Gelato,"Carrer del Rosselló, 287, 08037 Barcelona Catalunya","['Coffee Shop', 'Ice Cream Parlor', 'Restaurant']","41.398634,2.164206",coworking,23.0,53,few clouds
+Coffee Casa,"Calle Carders, 25, 08003 Barcelona Catalunya","['Café', 'Restaurant']","41.386829,2.180139",coworking,23.31,53,few clouds
+Alsur Café,"Roger de Llúria, 23 (Gran Vía), 08010 Barcelona Catalunya","['Café', 'Coffee Shop', 'Tapas Restaurant']","41.39108,2.171297",coworking,23.23,52,few clouds
+Chocolat-Box,"Jaume I, 3, 08002 Barcelona Catalunya","['Café', 'Ice Cream Parlor', 'Restaurant']","41.383027,2.177383",coworking,23.31,52,few clouds
+La Papa 2.0,"Calle de Pau Claris, 190, 08037 Barcelona Catalunya",['Café'],"41.396474,2.161906",coworking,23.0,53,few clouds
+Brew Coffee Urquinaona,"C/ d'Ausiàs Marc, 4, 08010 Barcelona Catalunya",['Coffee Shop'],"41.389934,2.173956",coworking,23.23,52,few clouds
+Starbucks,"Rambla de Canaletes, 109, 08002 Barcelona Catalunya",['Coffee Shop'],"41.383598,2.171119",coworking,23.28,52,few clouds
+Serrajòrdia,"Valldoreix, 70, 08172 Sant Cugat Catalunya","['Bakery', 'Coffee Shop']","41.468276,2.079229",coworking,22.67,52,clear sky
+Chocolatería Valor,"Calle Tapineria, 10, 08002 Barcelona Catalunya","['Café', 'Dessert Shop', 'Restaurant']","41.384695,2.176948",coworking,23.31,52,few clouds
+Restaurante Cafè de la Pedrera,"Passeig de Gràcia, 92, 08008 Barcelona Catalunya","['Bar', 'Coffee Shop', 'Mediterranean Restaurant']","41.395246,2.161585",coworking,23.0,53,few clouds
+Xurreria Trebol,"Corsega, 341, 08037 Barcelona Catalunya","['Café', 'Dessert Shop', 'Restaurant']","41.397894,2.160969",coworking,23.0,53,few clouds
+Opticalia Sagrada Familia,"Calle Valencia, 401 (Sicilia), 08013 Barcelona Catalunya",['Café'],"41.401361,2.174628",coworking,23.15,52,few clouds
+Syra Coffee,"Carrer de Sant Pere Més Alt, 32, 08003 Barcelona Catalunya",['Coffee Shop'],"41.388023,2.176376",coworking,23.31,53,few clouds
+Buenas Migas,"Plaça Espanya, 6-8, 08014 Barcelona Catalunya","['Café', 'Italian Restaurant']","41.375565,2.148525",coworking,23.22,50,few clouds
+The Coffee,"Calle de Girona, 76, Barcelona Catalunya",['Coffee Shop'],"41.395339,2.170595",coworking,23.15,52,few clouds
+Cava Universal,"Plaza Portal de la Pau, 4, 08002 Barcelona Catalunya","['Beer Garden', 'Coffee Shop', 'Tapas Restaurant']","41.376821,2.177475",coworking,23.31,52,few clouds
+Federal Café,"Calle Parlament, 39 (C. del Comte Borrell), 08015 Barcelona Catalunya","['Café', 'Coffee Shop', 'Diner']","41.376847,2.162878",Outdoor seating,23.25,52,few clouds
+Morrow Coffee,"Avenida Gran Via de Les Corts Catalanes, 403 (C. de Vilamarí), 08015 Barcelona Catalunya","['Coffee Shop', 'Restaurant']","41.377137,2.151354",Outdoor seating,23.22,50,few clouds
+Café Turó,"Carrer del Tenor Viñas, 1, 08021 Barcelona Catalunya","['Café', 'Spanish Restaurant']","41.394858,2.14196",Outdoor seating,23.06,50,few clouds
+Somewhere,"Sant Antoni, 56, 08172 Sant Cugat Catalunya","['Café', 'Restaurant']","41.469322,2.080511",Outdoor seating,22.67,52,clear sky
+Café de Finca,"Passatge Mercè Rodoreda, 2, 08860 Castelldefels Catalunya","['Bar', 'Coffee Shop', 'Restaurant']","41.281666,1.976203",Outdoor seating,23.35,33,few clouds
+Plaza Vella,"Plaça Vella, 15, 08221 Terrassa Catalunya","['Coffee Shop', 'Tapas Restaurant']","41.562274,2.011157",Outdoor seating,21.54,54,clear sky
+Starbucks,"Polígon Can Massaguer Nord, 6F (Políg. Can Massaguer Nord, 6F), 08430 Barcelona Catalunya",['Coffee Shop'],"41.610823,2.343921",Outdoor seating,22.39,55,overcast clouds
