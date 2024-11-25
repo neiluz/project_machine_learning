@@ -11,11 +11,11 @@ import pickle
 def load_model_and_pipeline():
     try:
         # Cargar el modelo desde el archivo .pkl
-        with open("best_logistic_model.pkl", "rb") as model_file:
+        with open("./sprint_9/best_logistic_model.pkl", "rb") as model_file:
             model = pickle.load(model_file)
 
         # Cargar la pipeline desde el archivo .pkl
-        with open("data_transformation_pipeline.pkl", "rb") as pipeline_file:
+        with open("./sprint_9/data_transformation_pipeline.pkl", "rb") as pipeline_file:
             pipeline = pickle.load(pipeline_file)
 
         return model, pipeline
