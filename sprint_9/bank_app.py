@@ -28,7 +28,7 @@ def load_model_and_pipeline():
 st.set_page_config(page_title="Predicción de Depósitos a Plazo", page_icon="💰", layout="wide")
 
 # --- Encabezado ---
-st.image("banner.jpg", use_container_width=True) 
+st.image("https://raw.githubusercontent.com/neiluz/project_machine_learning/main/sprint_9/banner.jpg", use_container_width=True)
 st.markdown("<h1 style='text-align: center; color: #1E90FF;'>Predicción de Depósitos a Plazo</h1>", unsafe_allow_html=True)
 
 # Descripción
