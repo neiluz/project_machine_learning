@@ -48,3 +48,4 @@ Todos los paquetes necesarios están especificados en el archivo requirements.tx
 * Formulario de entrada: Completar el formulario con datos del cliente, como ocupación, estado civil, edad, saldo, entre otros.
 * Resultados de predicción: La aplicación mostrará si el cliente probablemente suscribirá un depósito junto con la probabilidad estimada.
 * Restablecer formulario:Se incluye un botón para limpiar todos los campos y permitir nuevas predicciones.
+* Link de la app: https://bankapppy-h97e4umreppqtjz7v3dp9t.streamlit.app/
